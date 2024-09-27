@@ -123,7 +123,7 @@ npm start
 
 ### Features 💌
 ### Scroll Right To Left
-| Menu ⁠➜ | Bot Settings | Group Bug | Andriod Bug | Download | IOS Bug | Status | Web Bug | Fun | Owner | Temp Ban | Database |
+| Menu ⁠➜ | Bot Settings | Group Bug | Andriod Bug | Down loads | IOS Bug | Status | Web Bug | Fun | Owner | Temp Ban | Data bases |
 | --------| ----------- | --------- | ----------- | -------- | ------- | ------ | ------- | --- | ----- | -------- | -------- |
 | Work ➜ |     ✅      |    ✅     |     ✅      |     ✅   |   ✅    |   ✅   |   ✅    |  ✅ |  ✅   |    ✅     |   ✅    |
 
