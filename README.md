@@ -121,6 +121,15 @@ npm start
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
+### Features 💌
+### Scroll Right To Left
+| Menu ⁠➜ | Bot Settings | Group Bug | Andriod Bug | Download | IOS Bug | Status | Web Bug | Fun | Owner | Temp Ban | Database |
+| --------| ----------- | --------- | ----------- | -------- | ------- | ------ | ------- | --- | ----- | -------- | -------- |
+| Work ➜ |     ✅      |    ✅     |     ✅      |     ✅   |   ✅    |   ✅   |   ✅    |  ✅ |  ✅   |    ✅     |   ✅    |
+
+
+--------
+
 | [![Qasim Ali](https://github.com/GlobalTechInfo.png?size=100)](https://github.com/GlobalTechInfo) |
 | --- |
 | [Qasim Ali](https://github.com/GlobalTechInfo) |
